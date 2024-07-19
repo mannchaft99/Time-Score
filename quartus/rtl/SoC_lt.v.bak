@@ -1,0 +1,9 @@
+module SoC_lt(input)
+
+
+systemp u_sys(
+	
+);
+
+
+endmodule
